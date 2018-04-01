@@ -16,6 +16,8 @@
     <language>en-US</language>
   </metadata>
   <files>
+    <file src="Images\**\*.*" target="build\resources\Images\Razer\" />
+    <file src="Layouts\**\*.*" target="build\resources\Layouts\Razer\" />
     <file src="libs\**\*.*" target="build\libs\" />
     <file src="targets\*.targets" target="build\" />
   </files>

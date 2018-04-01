@@ -16,7 +16,7 @@
     <language>en-US</language>
   </metadata>
   <files>
-    <!--<file src="Images\**\*.*" target="build\resources\Images\Msi\" />-->
+    <file src="Images\**\*.*" target="build\resources\Images\Msi\" />
     <file src="Layouts\**\*.*" target="build\resources\Layouts\Msi\" />
     <file src="libs\**\*.*" target="build\libs\" />
     <file src="targets\*.targets" target="build\" />
