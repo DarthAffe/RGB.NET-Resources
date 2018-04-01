@@ -6,7 +6,7 @@
     <version>2.18.127.0</version>
     <authors>Darth Affe</authors>
     <owners>Darth Affe</owners>
-    <packageIconUrl>http://lib.arge.be/icon_package.png</PackageIconUrl>
+    <packageIconUrl>http://lib.arge.be/icon_package.png</packageIconUrl>
     <projectUrl>https://github.com/DarthAffe/RGB.NET-Resources</projectUrl>
     <licenseUrl>https://github.com/DarthAffe/RGB.NET-Resources/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
